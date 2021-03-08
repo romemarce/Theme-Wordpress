@@ -1,7 +1,11 @@
 # Theme Wordpress base
 
-Español:
-Este repositorio contiene un theme base para el comienzo de cualquier proyecto en Wordpress
+This is a valid theme for any type of project
+
+## Future update
+* Change the principal framework css to [Bootstrap](https://getbootstrap.com/)
+* Add or Change the structure for wordpress 5.6.2 compatibility
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
